@@ -1,3 +1,5 @@
+![logo](https://github.com/Kshitijnimje/Kshitijnimje/blob/main/Github%20banner%2057.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Kshitij Nimje</h1>
 <h3 align="center">Aspiring Engineer | Tech Enthusiast | Proficient in C++, Python, C# | Adept Data Analyst | Skilled in Tableau & Excel | Web Development Enthusiast</h3>
 
